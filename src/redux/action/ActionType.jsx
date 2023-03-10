@@ -1,0 +1,7 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART ";
+export const ADD_TO_wISHLIST = "ADD_TO_wISHLIST";
+export const REMOVE_FROM_WISHLIST = "REMOVE_FROM_WISHLIST ";
+export const ADD_ADDRESS = "ADD_ADDRESS ";
+export const DELETE_ADDRESS = "DELETE_ADDRESS ";
+export const DELETE_ALL_CART_ITEMS = "DELETE_ALL_CART_ITEMS ";
